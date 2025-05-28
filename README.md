@@ -1622,8 +1622,6 @@ readthedocs.io
 bulma.io
 redis.io
 pinterest.com
-rt.pornhub.com
-rt.pornhub.org
 ```
 
 10. Изменить `zapret-hosts-user-exclude.txt`
