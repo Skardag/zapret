@@ -48,8 +48,8 @@ MODE_FILTER = hostlist
 --dpi-desync-split-pos=1,sniext+1,host+1,midsld-2,midsld,midsld+2,endhost-1
 ```
 
-7. Переходим вкладку `Настройки` > `Host list`
-8. Изменить `zapret-hosts-google.txt`
+5. Переходим вкладку `Настройки` > `Host list`
+6. Изменить `zapret-hosts-google.txt`
 
 ```
 googlevideo.com
@@ -101,7 +101,7 @@ gvt2.com
 gvt3.com
 ```
 
-9. Изменить `zapret-hosts-user.txt`
+7. Изменить `zapret-hosts-user.txt`
 
 ```
 discord.com
