@@ -403,5 +403,4 @@ cloudflareperf.com
 cloudflareprod.com 
 cloudflarestaging.com 
 cloudflarestoragegw.com
-rutracker.orgcdn-telegram.org
 ```
