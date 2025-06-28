@@ -12,9 +12,9 @@ ____
 + AX3000T - `192.168.32.1`
 + 4C - `192.168.31.1`
 
-+ NFQWS_PORTS_TCP = 80,443
-+ NFQWS_PORTS_UDP = 443
-+ MODE_FILTER = hostlist
+  NFQWS_PORTS_TCP = 80,443
+  NFQWS_PORTS_UDP = 443
+  MODE_FILTER = hostlist
 
 1. Заходим раздел `Службы` > `Zapret`
 2. Переходим вкладку `Настройки` > `NFQWS options`
