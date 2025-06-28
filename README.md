@@ -13,8 +13,8 @@ ____
 + 4C - `192.168.31.1`
 
 NFQWS_PORTS_TCP = 80,443<br>
-NFQWS_PORTS_UDP = 443\r\n
-MODE_FILTER = hostlist\r\n
+NFQWS_PORTS_UDP = 443<br>
+MODE_FILTER = hostlist<br>
 
 1. Заходим раздел `Службы` > `Zapret`
 2. Переходим вкладку `Настройки` > `NFQWS options`
