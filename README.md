@@ -110,11 +110,6 @@ gvt3.com
 7. Изменить `zapret-hosts-user.txt`
 
 ```
-discord.com
-discord.gg
-discord.media
-discordapp.com
-discordapp.net
 royal-match.top
 royalmatch.fandom.com
 fandom.com
@@ -409,27 +404,4 @@ cloudflareprod.com
 cloudflarestaging.com 
 cloudflarestoragegw.com
 rutracker.orgcdn-telegram.org
-comments.app
-contest.com
-fragment.com
-graph.org
-quiz.directory
-t.me
-tdesktop.com
-telega.one
-telegra.ph
-telegram-cdn.org
-telegram.dog
-telegram.me
-telegram.org
-telegram.space
-telesco.pe
-tg.dev
-tx.me
-usercontent.dev
-chess.com
-readthedocs.io
-bulma.io
-redis.io
-pinterest.com
 ```
