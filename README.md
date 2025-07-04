@@ -4,7 +4,7 @@
 ## Для установки
 
 - [AX3000T плагин](https://www.dropbox.com/scl/fi/lbz7zq37ntefhs75mmilu/AX3000T.zip?rlkey=9kn7sftfv1qo3f9kpawtvmdf5&st=hziktenw&dl=1)
-- 4C плагин 2 файла! [Первый файл](https://www.dropbox.com/scl/fi/sbgbvfnlfz89rmmcby0ek/4C.zip?rlkey=4fc2tbj4lsege0epbzdavrc6b&st=euftni2w&dl=1) ||| [Второй файл](https://www.dropbox.com/scl/fi/sbgbvfnlfz89rmmcby0ek/4C.zip?rlkey=4fc2tbj4lsege0epbzdavrc6b&st=euftni2w&dl=1)
+- 4C плагин 2 файла! [Первый файл](https://www.dropbox.com/scl/fi/c0e07r1iudyuwk5pf2apm/zapret_71.20250607_mipsel_24kc.ipk?rlkey=naekexkimetaju8amaaquurfo&st=mf609ihr&dl=1) ||| [Второй файл](https://www.dropbox.com/scl/fi/ln3ypto12i0ra8amrkng2/luci-app-zapret_71.20250607-r1_all.ipk?rlkey=jl58kgzljgyt9y3sn1e1117bz&st=tnkuggjn&dl=1)
 
 ____
 ### Заходим по адресу
