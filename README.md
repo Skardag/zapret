@@ -8,8 +8,8 @@
 
 Для удобного установки с телефона
 4C 
-- 1. zapret ```https://drive.google.com/file/d/1Ph4X5XmO-pfIaQcew31C99XZ0YKOu_zk/view?usp=sharing```
-- 2. luci app ```[https://drive.google.com/file/d/1Ph4X5XmO-pfIaQcew31C99XZ0YKOu_zk/view?usp=sharing](https://drive.google.com/file/d/1ZtrXK_9dXq5aFeCmcUcTWFArA5y7Sbt_/view?usp=sharing)```
+- 1. zapret ```https://www.dropbox.com/scl/fi/c0e07r1iudyuwk5pf2apm/zapret_71.20250607_mipsel_24kc.ipk?rlkey=naekexkimetaju8amaaquurfo&st=nzn5jpsk&dl=1```
+- 2. luci app ```https://www.dropbox.com/scl/fi/ln3ypto12i0ra8amrkng2/luci-app-zapret_71.20250607-r1_all.ipk?rlkey=jl58kgzljgyt9y3sn1e1117bz&e=1&st=4iso1nk3&dl=1```
 ____
 ### Заходим по адресу
 
