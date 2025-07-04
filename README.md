@@ -3,7 +3,7 @@
 
 ## Для установки
 
-- AX3000T плагин [Первый файл](https://www.dropbox.com/scl/fi/oa4vejcnowbucdp7b1t57/zapret_71.20250607_aarch64_cortex-a53.ipk?rlkey=hf4onmbm82f6uu67s75nz8e0z&st=r0oyzo6h&dl=1) ||| [Второй файл](https://www.dropbox.com/scl/fi/rmjddtfx5787shfv6607a/luci-app-zapret_71.20250607-r1_all.ipk?rlkey=x2vbqx7rjoyh6xol7cs40r230&st=xyvcczl5&dl=1)
+- AX3000T плагин 2 файла! [Первый файл](https://www.dropbox.com/scl/fi/oa4vejcnowbucdp7b1t57/zapret_71.20250607_aarch64_cortex-a53.ipk?rlkey=hf4onmbm82f6uu67s75nz8e0z&st=r0oyzo6h&dl=1) ||| [Второй файл](https://www.dropbox.com/scl/fi/rmjddtfx5787shfv6607a/luci-app-zapret_71.20250607-r1_all.ipk?rlkey=x2vbqx7rjoyh6xol7cs40r230&st=xyvcczl5&dl=1)
 - -----
 - 4C плагин 2 файла! [Первый файл](https://www.dropbox.com/scl/fi/c0e07r1iudyuwk5pf2apm/zapret_71.20250607_mipsel_24kc.ipk?rlkey=naekexkimetaju8amaaquurfo&st=mf609ihr&dl=1) ||| [Второй файл](https://www.dropbox.com/scl/fi/ln3ypto12i0ra8amrkng2/luci-app-zapret_71.20250607-r1_all.ipk?rlkey=jl58kgzljgyt9y3sn1e1117bz&st=tnkuggjn&dl=1)
 
