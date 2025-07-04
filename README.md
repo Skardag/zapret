@@ -404,3 +404,5 @@ cloudflareprod.com
 cloudflarestaging.com 
 cloudflarestoragegw.com
 ```
+5. Переходим вкладку `service` и перезапускаем
+6. Все готов. Если не помогло попробуйте перезагрузить роутер, телефон, смарт тв, компьютер :)
