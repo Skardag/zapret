@@ -6,16 +6,6 @@
 - [AX3000T плагин](https://drive.google.com/file/d/1Op8IS0PVOo_0IEiAiPeymghCjLu3-mzg/view?usp=sharing)
 - [4C плагин](https://drive.google.com/file/d/1o-1N7LKQT4_8vJp1-0zijo23-zbs7QFU/view?usp=sharing)
 
-Для удобного установки с телефона
-4C 
-1. Первое для 4C zapret (Основной пакерт)
-```
-https://www.dropbox.com/scl/fi/c0e07r1iudyuwk5pf2apm/zapret_71.20250607_mipsel_24kc.ipk?rlkey=naekexkimetaju8amaaquurfo&st=nzn5jpsk&dl=1
-```
-2. Второе для 4C luci app (Для упровление)
-```
-https://www.dropbox.com/scl/fi/ln3ypto12i0ra8amrkng2/luci-app-zapret_71.20250607-r1_all.ipk?rlkey=jl58kgzljgyt9y3sn1e1117bz&e=1&st=4iso1nk3&dl=1
-```
 ____
 ### Заходим по адресу
 
