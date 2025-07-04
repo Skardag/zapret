@@ -3,8 +3,8 @@
 
 ## Для установки
 
-- [AX3000T плагин](https://drive.google.com/file/d/1AGNLw0IlYllHJ2UlIedsF0W8ub9tkzY1/view?usp=sharing)
-- [4C плагин](https://drive.google.com/file/d/14A_rCiXeC1hpW3JUsgQ7XNEH9TMoF9QU/view?usp=sharing)
+- [AX3000T плагин](https://drive.google.com/file/d/1Op8IS0PVOo_0IEiAiPeymghCjLu3-mzg/view?usp=sharing)
+- [4C плагин](https://drive.google.com/file/d/1o-1N7LKQT4_8vJp1-0zijo23-zbs7QFU/view?usp=sharing)
 
 ____
 ### Заходим по адресу
