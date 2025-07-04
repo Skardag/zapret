@@ -6,6 +6,10 @@
 - [AX3000T плагин](https://drive.google.com/file/d/1Op8IS0PVOo_0IEiAiPeymghCjLu3-mzg/view?usp=sharing)
 - [4C плагин](https://drive.google.com/file/d/1o-1N7LKQT4_8vJp1-0zijo23-zbs7QFU/view?usp=sharing)
 
+Для удобного установки с телефона
+4C 
+- 1. zapret ```https://drive.google.com/file/d/1Ph4X5XmO-pfIaQcew31C99XZ0YKOu_zk/view?usp=sharing```
+- 2. luci app ```[https://drive.google.com/file/d/1Ph4X5XmO-pfIaQcew31C99XZ0YKOu_zk/view?usp=sharing](https://drive.google.com/file/d/1ZtrXK_9dXq5aFeCmcUcTWFArA5y7Sbt_/view?usp=sharing)```
 ____
 ### Заходим по адресу
 
