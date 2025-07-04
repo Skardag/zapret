@@ -4,7 +4,7 @@
 ## Для установки
 
 - [AX3000T плагин](https://www.dropbox.com/scl/fi/lbz7zq37ntefhs75mmilu/AX3000T.zip?rlkey=9kn7sftfv1qo3f9kpawtvmdf5&st=hziktenw&dl=1)
-- 4C плагин 2 файла! [Первый файл](https://www.dropbox.com/scl/fi/sbgbvfnlfz89rmmcby0ek/4C.zip?rlkey=4fc2tbj4lsege0epbzdavrc6b&st=euftni2w&dl=1) [Второй файл](https://www.dropbox.com/scl/fi/sbgbvfnlfz89rmmcby0ek/4C.zip?rlkey=4fc2tbj4lsege0epbzdavrc6b&st=euftni2w&dl=1)
+- 4C плагин 2 файла! [Первый файл](https://www.dropbox.com/scl/fi/sbgbvfnlfz89rmmcby0ek/4C.zip?rlkey=4fc2tbj4lsege0epbzdavrc6b&st=euftni2w&dl=1) ||| [Второй файл](https://www.dropbox.com/scl/fi/sbgbvfnlfz89rmmcby0ek/4C.zip?rlkey=4fc2tbj4lsege0epbzdavrc6b&st=euftni2w&dl=1)
 
 ____
 ### Заходим по адресу
